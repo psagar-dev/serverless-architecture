@@ -1,4 +1,4 @@
-### 🚀 **Assignment 4: Automatic EBS Snapshot and Cleanup Using AWS Lambda and Boto3**
+### 🚀 **Assignment 08: Analyze Sentiment of User Reviews Using AWS Lambda, Boto3, and Amazon Comprehend**
 
 #### **🔐 Step 1: Create Lambda IAM Role**
 

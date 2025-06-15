@@ -1,4 +1,4 @@
-### 🚀 **Assignment 13: Audit S3 Bucket Permissions and Notify for Public Buckets**
+### 🚀 **Assignment 06: Monitor and Alert High AWS Billing Using AWS Lambda, Boto3, and SNS**
 
 #### ✅ Step 1. SNS Setup
 

@@ -1,4 +1,4 @@
-### 🚀 **Assignment 9: Restore EC2 Instance from Snapshot**
+### 🚀 **Assignment 17: Restore EC2 Instance from Snapshot**
 #### **🔐 Step 1: Create Lambda IAM Role**
 
 ##### 🔑 **1.1 Create an IAM Role**

@@ -1,4 +1,4 @@
-### 🚀 **Assignment 10: Load Balancer Health Checker**
+### 🚀 **Assignment 19: Load Balancer Health Checker**
 
 #### ✅ Step 1. SNS Setup
 
